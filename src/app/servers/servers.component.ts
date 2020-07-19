@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { ServersService } from './servers.service';
-import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-servers',
